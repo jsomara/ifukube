@@ -1,0 +1,4 @@
+= ifukube
+
+ifukube is a gem designed for easily querying bugzilla 
+
